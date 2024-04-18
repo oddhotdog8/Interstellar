@@ -12,9 +12,9 @@
     "categories": ["all"]
   },
   {
-    "name": "Amazon Luna",
-    "link": "https://luna.amazon.com/",
-    "image": "/assets/media/icons/amazon-luna.webp",
+    "name": "vex",
+    "link": "",
+    "image": "",
     "categories": ["all"],
     "blank": "true"
   },
@@ -1771,8 +1771,8 @@
     "categories": ["all", "local"]
   },
   {
-    "name": "2048 Multitasking",
-    "link": "/e/2048-multitask/index.html",
+    "name": "vex",
+    "link": "/e/vex/index.html",
     "image": "/assets/media/icons/2048.webp",
     "categories": ["all", "local"]
   },
