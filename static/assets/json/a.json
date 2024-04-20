@@ -18,9 +18,27 @@
     "categories": ["all", "media"]
   },
   {
-    "name": "the sun for the vampire 3",
-    "link": "https://www.greatmathgame.com/games/the-sun-for-the-vampire-3/",
-    "image": "/assets/media/icons/amazon.webp",
+    "name": "Moto x3m pool party",
+    "link": "https://www.coolmathgames.com/0-moto-x3m-pool-party",
+    "image": "",
+    "categories": ["all", "media"]
+  },
+  {
+    "name": "Moto x3m 2",
+    "link": "https://www.y8.com/games/moto_x3m_2",
+    "image": "",
+    "categories": ["all", "media"]
+  },
+  {
+    "name": "Kick the buddy",
+    "link": "https://kick-thebuddy.com",
+    "image": "",
+    "categories": ["all", "media"]
+  },
+  {
+    "name": "Tag",
+    "link": "https://poki.com/en/g/tag",
+    "image": "",
     "categories": ["all", "media"]
   },
   {
